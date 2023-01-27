@@ -1,0 +1,39 @@
+mot de passe mongosDB atlas , pour la connexion a la base de données => BonjourOumaro
+
+
+
+{
+    "name":"Naruto",
+    "author":"Masashi Kishimoto",
+    "img_mangas": "https://oumaro001.github.io/Tome_mangas/Images/couverture/naruto.jpg",
+    "img_tome": "https://oumaro001.github.io/Tome_mangas/",
+    "price": 6.95,
+    "nbr_tome": 10,
+    "stock": 193,
+    "likes": 1759,
+    "release_date":"1998",
+    "resume": "Naruto est un garçon qui vit dans le village de Konoah. Il rêve de devenir Hokage (un grand chef qui protège son village et qui est très puissant). Mais il est détesté de tout le monde, car il a un démon scellé en lui: le démon renard à neuf queues (Kyubi)."
+}
+
+"name": "Bleach",
+  "author": "Tite Kubo",
+  "img_mangas": null,
+  "img_tome": "https://oumaro001.github.io/Tome_mangas/",
+  "price": 6.95,
+  "nbr_tome": 10,
+  "stock": 193,
+  "likes": 1739,
+  "release_date": "2001",
+  "resume": "Adolescent de quinze ans, Ichigo Kurosaki possède un don particulier : celui de voir les esprits. Un jour, il croise la route d'une belle shinigami (un être spirituel) en train de pourchasser une “âme perdue”, un esprit maléfique qui hante notre monde et n'arrive pas à trouver le repos."
+
+
+  "name": "One piece",
+  "author": "Eichiro Oda",
+  "img_mangas": null,
+  "img_tome": "https://oumaro001.github.io/Tome_mangas/",
+  "price": 6.95,
+  "nbr_tome": 10,
+  "stock": 159,
+  "likes": 1459,
+  "release_date": "1996",
+  "resume": "L'histoire suit principalement l'équipage de Chapeau de paille, mené par son capitaine Monkey D. Luffy, un jeune homme ayant mangé, enfant, sans le savoir le fruit du Gum Gum qui lui permet d'étirer ses membres, et dont le rêve est de devenir le Roi des pirates."
