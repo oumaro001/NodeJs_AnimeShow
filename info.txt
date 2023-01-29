@@ -37,3 +37,5 @@ mot de passe mongosDB atlas , pour la connexion a la base de données => Bonjour
   "likes": 1459,
   "release_date": "1996",
   "resume": "L'histoire suit principalement l'équipage de Chapeau de paille, mené par son capitaine Monkey D. Luffy, un jeune homme ayant mangé, enfant, sans le savoir le fruit du Gum Gum qui lui permet d'étirer ses membres, et dont le rêve est de devenir le Roi des pirates."
+
+  "https://oumaro001.github.io/Tome_mangas/Images/couverture/onepiece.jpg"

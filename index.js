@@ -1,13 +1,22 @@
 const express = require('express');
 const { connecter } = require('./Bdd/connect');
-const  routeMangas  = require('./Routes/mangasRoute')
+const  routeMangas  = require('./Routes/mangasRoute');
+const mogoose = require('mongoose');
 const app = express();
+const cors = require('cors')
 
 
 app.use(express.urlencoded({extended:true}));
 app.use(express.json());
+app.use(cors());
 
 app.use("/mangas",routeMangas);
+app.use((req, res, next) => {
+    res.setHeader('*');
+    res.setHeader('*');
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH, OPTIONS');
+    next();
+  });
 
 
 // faire dans le terminal la commande => mongosh ,pour recuperer le liens:" mongodb://127.0.0.1:27017/ "
